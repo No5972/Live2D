@@ -38,6 +38,7 @@
     animation-iteration-count: infinite;
     animation-name: shake;
     animation-timing-function: ease-in-out;
+    pointer-events: none;
 }
 
 .hide-button {
