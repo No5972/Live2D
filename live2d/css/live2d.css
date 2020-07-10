@@ -66,7 +66,11 @@
 
 @media (max-width: 860px) {
     #landlord {
-        display: none;
+        display: block;
+        width: 5rem !important;
+        height: 10rem !important;
+        bottom: -2rem !important;
+        left: 1rem !important;
     }
 }
 
