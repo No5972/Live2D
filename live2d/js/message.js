@@ -31,6 +31,10 @@ $(document).on('copy', function (){
     showMessage('你都复制了些什么呀，转载要记得加上出处哦~~', 5000);
 });
 
+$(document).on('visibilitychange', function (){
+    if (!document.hidden) showMessage("哇，你终于回来了～", 5000);
+});
+
 function initTips(){
     $.ajax({
         cache: true,
