@@ -89,7 +89,7 @@
             "text": ["这里可以使用 RSS 订阅呢！", "利用 feed 订阅器，就能快速知道博客有没有更新了呢。"]
         },
 	{
-	    "selector": "a[href^='/categories/']",
+	    "selector": "a[href*='/categories/']",
 	    "text": ["要去看看 <span>{text}</span> 分类么？", "点它可以查看此分类下的所有文章哟！"]
 	},
 	{
@@ -141,7 +141,7 @@
 	    "text": ["点击图片可以放大呢！"]
 	},
 	{
-	    "selector": "a[itemprop='commentCount']",
+	    "selector": ".valine-comment-count",
 	    "text": ["要去看看评论吗？"]
 	}
     ],
