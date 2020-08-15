@@ -72,6 +72,10 @@
 	    "selector": ".menu-item-donate a",
 	    "text": ["要打赏我嘛？好期待啊～", "主人最近在吃土呢，很辛苦的样子，给他一些钱钱吧～"]
 	},
+	{
+	    "selector": ".menu-item-links a",
+	    "text": ["这是我的朋友们哦ヾ(◍°∇°◍)ﾉﾞ", "要去大佬们的家看看吗？", "要去拜访一下我的朋友们吗？"]
+	},
     	{
 	    "selector": "a[rel='contents']",
 	    "text": ["点击来阅读全文哦。"]
