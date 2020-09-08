@@ -147,6 +147,10 @@
 	{
 	    "selector": ".valine-comment-count",
 	    "text": ["要去看看评论吗？"]
+	},
+	{
+	    "selector": "#switchBackgroundBtn",
+	    "text": ["这里可以开启或关闭随机背景～"]
 	}
     ],
     "click": [
