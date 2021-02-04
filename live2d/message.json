@@ -69,7 +69,7 @@
 	    "text": ["翻页比较麻烦吗，那就来看看文章归档吧。", "文章目录都整理在这里啦！"]
 	},
     	{
-	    "selector": ".menu-item-donate a, #reward-container button",
+	    "selector": ".menu-item-donate a, .reward-container button",
 	    "text": ["要打赏我嘛？好期待啊～", "主人最近在吃土呢，很辛苦的样子，给他一些钱钱吧～"]
 	},
 	{
